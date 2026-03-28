@@ -1,8 +1,8 @@
 # プライバシーポリシー
 
-**アプリ名：** どこでも家計簿
-**開発者：** piedra tienda
-**連絡先：** piedratienda.app@gmail.com
+**アプリ名：** どこでも家計簿  
+**開発者：** piedra tienda  
+**連絡先：** piedratienda.app@gmail.com  
 **最終更新日：** 2026年3月27日
 
 ---
