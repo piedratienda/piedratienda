@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**App Name:** AnyMoney Ledger
-**Developer:** piedra tienda
-**Contact:** piedratienda.app@gmail.com
+**App Name:** AnyMoney Ledger  
+**Developer:** piedra tienda  
+**Contact:** piedratienda.app@gmail.com  
 **Last Updated:** March 27, 2026
 
 ---
