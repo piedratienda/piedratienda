@@ -3,7 +3,7 @@
 **App Name:** AnyMoney Ledger  
 **Developer:** piedra tienda  
 **Contact:** piedratienda.app@gmail.com  
-**Last Updated:** March 27, 2026
+**Last Updated:** April 30, 2026
 
 ---
 
@@ -19,14 +19,13 @@ piedra tienda ("we", "us", or "our") respects the privacy of all users of AnyMon
 
 The App stores household data such as expense amounts, dates, categories, memos, countries, and currencies **solely on your device**. This data is never transmitted to external servers and cannot be accessed by us.
 
-### Information We Do Not Collect
+### Information We Do Not Collect Directly
 
-We do not collect any of the following:
+We do not directly collect or store the following information on our own servers:
 
 - Personally identifiable information such as name, address, or phone number
 - Location data
 - Device information such as contacts, camera, or microphone
-- Analytics data or behavioral history
 
 ---
 
@@ -39,17 +38,31 @@ https://policies.google.com/privacy
 
 ### Advertising
 
-The App does not currently display any advertisements. If we introduce advertising in the future, this Privacy Policy will be updated and users will be notified in advance. When ads are introduced, the advertising SDK may collect certain information.
+The App uses Google AdMob (Google LLC) to serve ads. AdMob may automatically collect certain information for ad delivery, optimization, and fraud prevention, including:
+
+- Advertising identifiers (such as Android Advertising ID)
+- Device information (OS, device model, language settings, etc.)
+- IP address
+- Approximate location inferred from IP and related signals
+- Ad interaction data (such as ad impressions and clicks)
+
+Such data is handled by Google in accordance with Google's privacy policies. For details, please refer to:
+- https://policies.google.com/privacy
+- https://support.google.com/admob/answer/6128543
+
+### Ad Personalization and Opt-Out
+
+Users can reset their advertising ID or limit personalized ads in device settings. Available options vary by device and OS version.
 
 ---
 
 ## 4. Children's Privacy
 
-The App is designed to be used by children as a pocket money tracker as well as by adults as a household account book. The App itself does not collect personal information from any users, including children.
+The App is a general-purpose household expense tracker and is not primarily directed to children.
 
 If a child under the age of 13 wishes to use the contact form, parental consent is required.
 
-In the event that advertising is introduced in the future, we will comply with the Children's Online Privacy Protection Act (COPPA) and all other applicable laws and regulations concerning children's privacy.
+We comply with applicable child privacy laws (including COPPA) and Google's policies for ad serving.
 
 ---
 
